@@ -1,0 +1,6 @@
+The style : http://www.erlang.se/doc/programming_rules.shtml
+
+The substance: http://erldocs.com/
+
+The Guru: http://learnyousomeerlang.com
+
